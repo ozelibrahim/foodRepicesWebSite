@@ -1,0 +1,26 @@
+body {
+    background-color:seashell;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    color:royalblue;
+}
+
+.icerik {
+    display: inline-block;
+    text-align: left;
+}
+
+.hamur {
+    list-style-position: inside;
+}
+
+.icmalzeme {
+    list-style-position: inside;
+}
+
+.yapilis {
+    list-style-position: inside;
+}
